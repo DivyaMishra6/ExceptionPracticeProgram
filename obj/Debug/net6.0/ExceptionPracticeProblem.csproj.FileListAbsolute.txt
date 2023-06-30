@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\bin\Debug\net6.0\ExceptionPracticeProblem.exe
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\bin\Debug\net6.0\ExceptionPracticeProblem.deps.json
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\bin\Debug\net6.0\ExceptionPracticeProblem.runtimeconfig.json
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\bin\Debug\net6.0\ExceptionPracticeProblem.dll
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\bin\Debug\net6.0\ExceptionPracticeProblem.pdb
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.AssemblyInfo.cs
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.dll
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\refint\ExceptionPracticeProblem.dll
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.pdb
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ExceptionPracticeProblem.genruntimeconfig.cache
+C:\Users\HP\source\repos\A287\ExceptionPracticeProblem\ExceptionPracticeProblem\obj\Debug\net6.0\ref\ExceptionPracticeProblem.dll

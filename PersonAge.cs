@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ExceptionPracticeProblem
+{
+    public class PersonAge
+    {
+        public void GetCategory(int age)
+        {
+            if (age == 0 || age < 1)
+            {
+                Console.WriteLine("Invalid age entered.");
+            }
+
+            if (age >= 1 && age <= 14)
+            {
+                Console.WriteLine("Category: Children");
+            }
+            else if (age >= 15 && age <= 24)
+            {
+                Console.WriteLine("Category: Youth");
+            }
+            else if (age >= 25 && age <= 64)
+            {
+                Console.WriteLine("Category: Adults");
+            }
+            else if(age >= 65)
+            {
+                Console.WriteLine("Category: Seniors");
+            }
+            else
+            {
+                Console.WriteLine("Invalid age entered.");
+            }
+        }
+
+    }
+
+}
