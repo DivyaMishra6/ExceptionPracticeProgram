@@ -10,7 +10,7 @@ namespace ExceptionPracticeProblem
     {
         public void GetCategory(int age)
         {
-            if (age == 0 || age < 1)
+            if (age == null || age < 1)
             {
                 Console.WriteLine("Invalid age entered.");
             }
